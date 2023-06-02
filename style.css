@@ -1,0 +1,213 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+.main > h5 {
+    text-align: center;
+    color: blueviolet;
+    margin-bottom: 20px;
+}
+.main > h1 {
+    text-align: center;
+}
+
+.fake {
+    text-align: center;
+    color: rgb(119, 118, 118);
+    font-size: 16px;
+}
+.sub {
+    margin-top: 1px;    text-align: center;
+    color: rgb(119, 118, 118);
+    font-size: 10px;
+}
+.primary {
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: white;
+}
+.desb {
+    background-color: rgb(240, 234, 247);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: blueviolet;
+    font-size: 16px;
+}
+.resb {
+    background-color: rgb(213, 218, 249);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(27, 8, 194);
+    font-size: 16px;
+}
+.preb {
+    background-color: rgb(255, 229, 244);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(233, 21, 127);
+    font-size: 16px;
+}
+
+.desbi {
+    background-color: rgb(193, 233, 253);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(17, 99, 221);
+    font-size: 16px;
+}
+.resbe {
+    background-color: rgb(255, 223, 235);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(197, 21, 109);
+    font-size: 16px;
+}
+
+.desig {
+    background-color: rgb(230, 252, 243);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(4, 97, 48);
+    font-size: 16px;
+}
+.resea {
+    background-color: rgb(255, 223, 235);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(197, 21, 109);
+    font-size: 16px;
+}
+.mana {
+    background-color: rgb(237, 237, 237);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(22, 14, 18);
+    font-size: 16px;
+}
+.fram {
+    background-color: rgb(252, 247, 232);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(229, 180, 1);
+    font-size: 16px;
+}
+.saas {
+    background-color: rgb(255, 225, 225);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    color: rgb(220, 20, 20);
+    font-size: 16px;
+}
+.cardinfo > h5 {
+    color: blueviolet;
+}
+.cardux > h5 {
+    color: blueviolet;
+}
+.leftcardinfo> h5 {
+    color: blueviolet;
+}
+.caucus >h5 {
+    color: blueviolet;
+}
+p {
+    font-size: 15px;
+}
+label {
+    margin-left: 620px;
+}
+input {
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+.main > button {
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: blueviolet;
+    border: none;
+}
+
+.subset {
+    margin-left: 5.4%
+}
+.cards {
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+    gap: 40px;
+    justify-content: center;
+}
+
+.leftcardinfo {
+    text-align: left;    
+    padding: 20px;
+    border-radius: 10px;
+}
+.leftcardinfo > h3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rightcardinfo {
+    text-align: left;
+    padding: 20px 20px;
+}
+
+.ui1 {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.ui2 {
+    display: flex;
+    gap: 30px;
+}
+
+.footer {
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    gap: 70px;
+    justify-content: center;
+}
+.cardinfo > h3 {
+    display: flex;
+    justify-content: space-between;
+}
+.cardinfo > img {
+    width: 400px;
+}
+
+.cardux {
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 100px;
+    gap: 70px;
+    justify-content: center;
+}
+.cardux > img {
+    width: 400px;
+}
+.cardux > h3 {
+    display: flex;
+    justify-content: space-between;
+}
+.ana {
+    margin-bottom: 30px;
+}
